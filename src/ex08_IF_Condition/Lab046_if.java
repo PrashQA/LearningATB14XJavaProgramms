@@ -1,6 +1,6 @@
-package ex06_Increment_Decrement;
+package ex08_IF_Condition;
 
-public class Lab045_DEC2 {
+public class Lab046_if {
     public static void main(String[] args) {
         int a= 10;
         int result = --a;
