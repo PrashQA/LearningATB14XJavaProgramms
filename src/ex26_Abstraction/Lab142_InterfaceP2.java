@@ -22,6 +22,7 @@ public class Lab142_InterfaceP2 {
         @Override
         public void icm2() {
 
+
         }
 
         @Override
